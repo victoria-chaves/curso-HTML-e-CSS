@@ -1,1 +1,1 @@
-README
+Esse é um site desenvolvido utilizando HTML e CSS no curso de HTML/CSS do bootcamp Avanade DIO
