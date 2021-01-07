@@ -1,0 +1,91 @@
+body {
+
+background: #f7a1be87;
+
+font-family: verdana;
+
+max-width: 900px;
+
+margin: auto;
+
+}
+
+#title{
+
+color: #9c27b0;
+
+font-size: 80px;
+
+text-align: center;
+
+}
+
+.subtitle, .post_title{
+
+color: black; 
+
+}
+
+.post_title{
+
+font-size: 17px;
+
+font-style:italic;
+
+margin: 0;
+
+margin-bottom: 15px;
+
+}
+
+.post{
+
+background: #FFF;
+
+padding: 15px;
+
+border: 3px dotted #b629ce;
+
+border-radius:10px;
+
+margin-bottom: 15px;
+
+}
+
+.logo{
+
+image-align: center;
+
+}
+
+.post_content{
+
+margin: 0;
+
+margin-bottom:15px;
+
+text-align: justify;
+
+}
+
+.post_image{
+
+margin-bottom: 15px;
+
+border-radius:20px;
+
+}
+
+.contatos{
+
+list-style-image: URL("icone-phone.png");
+
+padding-left:30px;
+
+}
+
+.contatos li a {
+
+color: red;
+
+}
